@@ -10,6 +10,10 @@ Kotlin;
 
 Java;
 
+SQL;
+
+MySQL;
+
 Python; e
 
 DAX.
