@@ -3,22 +3,18 @@ Sou um lifetime learning, apaixonado por tecnologia, programação, computação
 Facilidade para aprender linguagem de programação e tecnologias.
 
 Conhecimentos em :
-
-Dart/Flutter;
-
-Kotlin;
-
-Java;
-
-SQL;
-
-MySQL;
-
-Python; e
-
-DAX.
-
-Começando em 2022 a faculdade de Engenharia da Computação.
+ 
+Dart/Flutter,
+Kotlin,
+Java ,
+Python,
+SQL,
+MySQL,
+Power Automate,
+Power BI,
+DAX,
+Tableau,
+SAS;
 
 Bacharel em Ciências Contábeis, aprovado no exame do Conselho Federal de Contabilidade;
 
@@ -45,6 +41,8 @@ Links:
 LinkedIn: https://www.linkedin.com/in/matheussoaresdeoliveira/
 
 Github: https://github.com/soaresolliver
+
+Cursos realizados na Alura: https://cursos.alura.com.br/user/matheusolliveiira/fullCertificate/dcfe586afbf47b0c633fb935a784a46f
 
 <!---
 soaresolliver/soaresolliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
